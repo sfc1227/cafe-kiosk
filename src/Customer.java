@@ -22,11 +22,4 @@ public class Customer {
 		// Implement code to set the last order time (e.g., use
 		// System.currentTimeMillis())
 	}
-
-	// Other methods related to Customer class if needed
-
-	// Inner class for Alarm
-	private class Alarm {
-		// Implement methods related to alarm if needed
-	}
 }
